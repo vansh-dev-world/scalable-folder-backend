@@ -200,7 +200,7 @@ Contributions are welcome!
 
 **Vansh Deep Arya**
 
-- GitHub: https://github.com/Vansh432
+- GitHub: https://github.com/vansh-dev-world/scalable-folder-backend
 - npm: https://www.npmjs.com/~vanshdeeparya
 
 ---
