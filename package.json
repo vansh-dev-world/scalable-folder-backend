@@ -1,0 +1,25 @@
+{
+    "name": "@vanshdeeparya/create-scalable-backend",
+    "version": "1.0.7",
+    "description": "CLI to scaffold a Node.js backend project",
+    "type": "module",
+    "bin": {
+        "create-scalable-backend": "bin/create-node-module.js"
+    },
+    "files": [
+        "lib",
+        "bin",
+        "templates",
+        "README.md",
+        "LICENSE"
+    ],
+    "keywords": [
+        "cli",
+        "node",
+        "express",
+        "scaffold",
+        "generator"
+    ],
+    "author": "Vansh Deep Arya",
+    "license": "MIT"
+}
